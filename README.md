@@ -9,6 +9,7 @@
 - 🎥 **Demo Video:** [Link](https://www.youtube.com/shorts/pC21iXCQCZA)
 - 🎨 **Before Changes Prototype:** [Link](https://www.figma.com/proto/ltprGunhWzfskEJHjeiCtU/ROVO?node-id=175-521&t=9yG2mOn8A9NSpHAN-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&hide-ui=1)
 - 🎨 **After Changes Prototype:** [Link](https://www.figma.com/proto/ltprGunhWzfskEJHjeiCtU/ROVO?node-id=179-1286&t=9yG2mOn8A9NSpHAN-0&scaling=min-zoom&content-scaling=fixed&page-id=121%3A2&starting-point-node-id=179%3A1286&hide-ui=1)
+- 📁 **FIGMA File:** [Link](https://www.figma.com/design/ltprGunhWzfskEJHjeiCtU/ROVO?node-id=0-1&p=f)
 - 📄 **Design Doc:** [Link](https://docs.google.com/document/d/1vhiuI5fzXWbpbh83IaWWaEX103mZ66pI-iKhujgn2bs/edit?usp=sharing)
 
 ---
