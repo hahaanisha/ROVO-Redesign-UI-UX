@@ -1,13 +1,17 @@
 # ROVO Redesign – TinkerQuest'26
 
+<p align="center">
+  <img src="images/cover.png" alt="cover Logo" width="900" />
+</p>
+
 ## Links
 
-- 🎥 **Demo Video:** [Add YouTube link]
-- 🎨 **Prototype:** [Add Figma link]
-- 📄 **Design Doc:**
+- 🎥 **Demo Video:** [Link](https://www.youtube.com/shorts/pC21iXCQCZA)
+- 🎨 **Before Changes Prototype:** [Link](https://www.figma.com/proto/ltprGunhWzfskEJHjeiCtU/ROVO?node-id=175-521&t=9yG2mOn8A9NSpHAN-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&hide-ui=1)
+- 🎨 **After Changes Prototype:** [Link](https://www.figma.com/proto/ltprGunhWzfskEJHjeiCtU/ROVO?node-id=179-1286&t=9yG2mOn8A9NSpHAN-0&scaling=min-zoom&content-scaling=fixed&page-id=121%3A2&starting-point-node-id=179%3A1286&hide-ui=1)
+- 📄 **Design Doc:** [Link](https://docs.google.com/document/d/1vhiuI5fzXWbpbh83IaWWaEX103mZ66pI-iKhujgn2bs/edit?usp=sharing)
 
 ---
-
 ## Overview
 
 This project is a UX redesign of the ROVO app, created as part of TinkerQuest'26. ROVO positions itself as a platform for builders and founders to collaborate, share progress, and build startups in public.
@@ -79,6 +83,10 @@ The redesign emphasizes **buildable solutions** rather than ideal but impractica
 ---
 
 ## Prototype
+<p align="center">
+  <img src="images/after.png" alt="after" width="900" />
+</p>
+
 
 The final prototype demonstrates the redesigned experience, focusing on:
 
@@ -118,7 +126,16 @@ This project helped shift the focus from just designing screens to thinking abou
 - Designing for real users and real constraints
 
 ---
+## ROVO POSTS:
+<p align="center">
+  <img src="images/posts1.png" alt="after" width="700" />
+</p>
 
+<p align="center">
+  <img src="images/posts2.png" alt="after" width="700" />
+</p>
+
+---
 ## Team INSPIRE
 
 ### Developed By
