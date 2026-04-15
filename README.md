@@ -136,7 +136,6 @@ This project helped shift the focus from just designing screens to thinking abou
 </p>
 
 ---
-## Team INSPIRE
 <p align="left">
   <a href="mailto:teaminspire2226@gmail.com">
     <img src="images/logo.png" alt="Contact Team INSPIRE" width="200"/>
