@@ -1,4 +1,4 @@
-# ROVO Redesign – TinkerQuest'26
+# ROVO Redesign – TinkerQuest'26 (DESIGN TRACK)
 
 <p align="center">
   <img src="images/cover.png" alt="cover Logo" width="900" />
